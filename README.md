@@ -6,7 +6,7 @@
 
 [Портфолио автора](https://github.com/obnqo40) · [Схема](#схема) · [Запуск](#запуск) · [Границы стенда](#границы-стенда)
 
-![Full-stack Lab: маршрут HTTP-запроса через Nginx к двум контейнерам](https://raw.githubusercontent.com/obnqo40/obnqo40/main/assets/full-stack-lab.svg)
+![Full-stack Lab: маршрут HTTP-запроса через Nginx к двум контейнерам](https://raw.githubusercontent.com/obnqo40/obnqo40/main/assets/studio/cover-lab.png)
 
 **Формат:** локальная лаборатория. Публичного демо не найдено; [запуск ниже](#запуск) поднимает стенд на `localhost:8080`.
 
